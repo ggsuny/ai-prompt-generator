@@ -16,5 +16,5 @@
   ],
   "mainAuxPrompt": "13. 如果内容较长，可以考虑拆分为主辅两部分文案，主文案力求简洁，但不用过于详细，字数不超过{mainWordLimit}，辅助文案对主文案进行解释和补充，字数不超过{auxWordLimit}",
   "wordLimitPrompt": "14. 总字数不超过{wordLimit}个字",
-  "finalInstruction": "15. 请确保每个文案都符合要求，不要遗漏任何要求"
+  "finalInstruction": "15. 请确保每个文案都符合要求，不要遗漏任何要求，请注意检查生成的结果"
 }
